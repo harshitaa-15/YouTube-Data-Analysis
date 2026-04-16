@@ -24,8 +24,7 @@ This project analyzes YouTube trending video data to uncover insights about view
 - Analyze trends in views, likes, and comments
 - Identify top-performing categories
 - Visualize insights using graphs and charts
-- 
-
+  
 ## Project Structure :
 
 ```id="b7u2qk"
