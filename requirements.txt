@@ -8,3 +8,4 @@ emoji
 plotly
 sqlalchemy
 jupyter
+
