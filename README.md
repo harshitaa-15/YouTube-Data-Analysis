@@ -10,7 +10,6 @@
   <img src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg" width="600"/>
 </p>
 
-
 <p align="center">
   An end-to-end data analysis project exploring YouTube trending videos, engagement patterns, and content performance.
 </p>
