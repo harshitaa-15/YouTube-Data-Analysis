@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/NLP-NLTK-green"/>
 </p>
 
-
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg" width="600"/>
 </p>
