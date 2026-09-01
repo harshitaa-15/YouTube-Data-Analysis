@@ -113,6 +113,3 @@ This visualization focuses on the top 6 YouTube categories with the highest tota
 * Some visualizations were hard to interpret at first due to long labels and clutter, so adjustments were needed.
 * Choosing the right type of graph for each analysis was challenging but important to clearly present insights.
 
-
-
-
