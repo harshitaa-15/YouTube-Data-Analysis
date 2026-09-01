@@ -116,14 +116,3 @@ This visualization focuses on the top 6 YouTube categories with the highest tota
 
 
 
-
-
-
-
-
-
-
-
-
-
-
